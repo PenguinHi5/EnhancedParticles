@@ -1,0 +1,5 @@
+main: org.spigotmc.annotationtest.Test
+name: TestPlugin
+version: 'pre-0.0.0'
+description: Enhanced particle systems
+author: PenguinHi5

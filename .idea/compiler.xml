@@ -9,5 +9,8 @@
         <module name="EnhancedParticles" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="EnhancedParticles" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
